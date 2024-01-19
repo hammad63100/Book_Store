@@ -1,0 +1,11 @@
+.Home-page{
+    width: 120%;
+   min-height: 100vh;
+   max-height: auto;
+}
+.Book{
+    border: 2px soild white;
+    padding: 5px 20px 5px 20px;
+    color: white;
+    text-decoration: none;
+    }
